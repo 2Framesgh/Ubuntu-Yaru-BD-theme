@@ -1,2 +1,3 @@
 # Ubuntu-Yaru-BD-theme
 A Better Discord theme inspired by Ubuntu's Yaru theme, and to make the client match the theme of Ubuntu
+This theme is based on GitHub dark, found at https://betterdiscord.app/theme/GitHub%20Dark as I'm too lazy to write it of scratch as this is my first theme...
