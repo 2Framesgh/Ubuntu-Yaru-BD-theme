@@ -1,11 +1,11 @@
-:root {
+::root {
     /* --------- BASE THEME --------- */
     --blurple-replace: #e95620;
     --background-primary: #333333;
     --background-secondary: #242424;
     --background-floating: #242424;
     --background-secondary-alt: var(--background-floating);
-    --background-tertiary: #2b2b2b;
+    --background-tertiary: #1d1d1d;
     --background-accent: #e95620;
     --userarea-background: #242424;
     --header-primary: rgb(240, 246, 252);
