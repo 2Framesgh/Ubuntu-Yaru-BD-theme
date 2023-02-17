@@ -4,8 +4,8 @@
  * @version v2
  * @invite U4tbhqf28b
  * @description Based on Github dark, A Better Discord theme inspired by Ubuntu's Yaru theme, designed to make the client match the look and feel of Ubuntu. 
- * @source https://github.com/DiscordStyles/Slate/
- * @website https://discordstyles.github.io/slate-theme/
+
+
 */
 
 /*
@@ -13,20 +13,3 @@
 */
 @import url("https://github.com/2Framesgh/Ubuntu-Yaru-BD-theme/blob/main/Ubd-Alpha-v2.theme.css");
 /*
-  Basic Variables
-  See available vars here: https://github.com/DiscordStyles/Slate/wiki
-*/
-:root {
-  /* Primary Colors */
-  --accent: 3, 102, 214;
-  --link-colour: 48, 144, 255;
-
-  /* Server List */
-  --server-icon-size: 35px;
-  --server-icon-spacing: 8px;
-  --server-container-padding: 10px;
-}
-
-/*
-  Place any Theme-specific Custom CSS Below here
-*/
